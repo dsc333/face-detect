@@ -9,8 +9,8 @@ Detects and blurs faces in an RPI video feed in real-time.  Uses mediapipe (for 
 4. source env/bin/activate
 5. pip3 install opencv-contrib-python
 6. pip3 install mediapipe
-7. Several options:
-  7.a. python3 face-detect-img.py (detects face in image)
-  7.b. python3 face-detect-vid.py (detects faces in live video feed) 
+7. Options:
+   1. python3 face-detect-img.py (detects face in image)
+   2.  python3 face-detect-vid.py (detects faces in live video feed) 
 8. Press 'q' to quit the program
 9. Type: deactivate when done
